@@ -1,1 +1,11 @@
+title: Jayakumar Virushabadass # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Full Stack Developer
+  <br><br>
+  <a href="mailto:vjayakumarjk@gmail.com">aashima.ahuja811@gmail.com </a>
+  <br>
+  <a href="http://www.linkedin.com/in/jayakumar-virushabadass">LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/jay-kumar-jk">Gihub</a> 
 theme: jekyll-theme-minimal
