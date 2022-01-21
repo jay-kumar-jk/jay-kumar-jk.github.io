@@ -55,5 +55,5 @@ GPA 7.7
 ---
 
 ### INTERESTS
-Apart from being a Software Developer, I enjoy being outdoors, hang out with friends. Love to playing cricket and chess. 
+Apart from being a Software Developer, I enjoy being outdoors, hang out with friends. Love to play cricket and chess. 
 Curious in solving sudoku.
