@@ -7,8 +7,8 @@ Senior Software Engineer with 6+ years of experience in overseeing all aspects o
 ## Skills
 
 <p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".net" width="40" height="40" style="margin: 5px;">
-  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="python" width="80" height="35" style="margin: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".net" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="python" width="80" height="35" style="margin: 5px;"/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg' alt="aws" width="40" height="35" style="margin: 5px;"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="38" style="margin: 5px;"/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='35' width='auto' alt="js" style="margin: 5px;"/>
@@ -20,8 +20,8 @@ Senior Software Engineer with 6+ years of experience in overseeing all aspects o
 ## Badges
 
 <p align='left'>
-  <img src="/AWS-Certified_Developer_Associate_badge.png" alt="aws certified developer associate" width="60" height="60">
-  <img src="/Microsoft-70-486.png" alt="70-486" width="70" height="70>   
+  <img src="/AWS-Certified_Developer_Associate_badge.png" alt="aws certified developer associate" width="60" height="60"/>
+  <img src="/Microsoft-70-486.png" alt="70-486" width="60" height="60 />   
 </p>
 
 ---
