@@ -21,7 +21,7 @@ Senior Software Engineer with 6+ years of experience in overseeing all aspects o
 
 <p align='left'>
   <img src="/AWS-Certified_Developer_Associate_badge.png" alt="aws certified developer associate" width="60" height="60">
-  <img src="/Microsoft-70-486.png" alt="70-486" width="100" height="70>   
+  <img src="/Microsoft-70-486.png" alt="70-486" width="70" height="70>   
 </p>
 
 ---
