@@ -36,7 +36,7 @@ Developing Microservices serverless applications using cutting edge technologies
 ### **Senior Associate**
 ### Emis Health India Pvt Ltd
 
-Developed Serverless applications using GO Lang, React JS AWS Lambda, DynamoDB, AWS Cognito and API Gateway. Lead a team to accomplish a POC on maintaining Test
+Developed Serverless applications using GO Lang, React JS AWS Lambda, DynamoDB, AWS Cognito and API Gateway. Accomplished a POC on maintaining Test
 cases for each modules of an application in a Single repository. Managed and Enhanced various modules in Health Care application using C# and MS SQL Server.
 
 ### **Associate Consultant - Technology**
