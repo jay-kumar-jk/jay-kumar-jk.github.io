@@ -37,12 +37,13 @@ Developing Microservices serverless applications using cutting edge technologies
 ### Emis Health India Pvt Ltd
 
 Developed Serverless applications using GO Lang, React JS AWS Lambda, DynamoDB, AWS Cognito and API Gateway. Accomplished a POC on maintaining Test
-cases for each modules of an application in a Single repository. Managed and Enhanced various modules in Health Care application using C# and MS SQL Server.
+cases for each modules of an application in a Single repository using Azure Test Suite. Managed and Enhanced various modules in Health Care application using C# and MS SQL Server.
 
 ### **Associate Consultant - Technology**
 ### Virtusa Consulting Software Services Pvt Ltd
 
 Involved in transitioning application from On-Premise to AWS by lift and shift Policy. Enhanced the performance and Delivered ECommerce application with improvement in performance by 30%. Contributed to increase sprint velocity and added unit testing to achieve 85% code coverage.
+Fixed production issues and maintained application workflows in application support team.
 
 ---
 
