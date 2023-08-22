@@ -1,6 +1,6 @@
 ## Portfolio
 
-Senior Software Engineer with 6+ years of experience in overseeing all aspects of the Software Development Life Cycle. Proficient in Software Development using .NET Core, Python, Angular and Database Management. AWS Certified Developer Associate involved in developing Microservices Serverless applications using AWS Cloud Services.
+Senior Software Engineer with 7+ years of experience in overseeing all aspects of the Software Development Life Cycle. Proficient in Software Development using .NET Core, Python, Angular and Database Management. AWS Certified Developer Associate involved in developing Microservices Serverless applications using AWS Cloud Services.
 
 ---
 
